@@ -176,6 +176,7 @@ PDFEditorMainWindow::PDFEditorMainWindow(QWidget* parent) :
     m_actionManager->setAction(PDFActionManager::Properties, ui->actionProperties);
     m_actionManager->setAction(PDFActionManager::Options, ui->actionOptions);
     m_actionManager->setAction(PDFActionManager::ResetToFactorySettings, ui->actionResetToFactorySettings);
+    m_actionManager->setAction(PDFActionManager::ClearRecentFileHistory, ui->actionClearRecentFileHistory);
     m_actionManager->setAction(PDFActionManager::CertificateManager, ui->actionCertificateManager);
     m_actionManager->setAction(PDFActionManager::GetSource, ui->actionGetSource);
     m_actionManager->setAction(PDFActionManager::BecomeSponsor, ui->actionBecomeASponsor);
@@ -210,8 +211,9 @@ PDFEditorMainWindow::PDFEditorMainWindow(QWidget* parent) :
 
     for (QAction* action : m_programController->getRecentFileManager()->getActions())
     {
-        ui->menuFile->insertAction(ui->actionQuit, action);
+        ui->menuFile->insertAction(ui->actionClearRecentFileHistory, action);
     }
+    m_programController->getRecentFileManager()->setClearRecentFileHistoryAction(ui->actionClearRecentFileHistory);
     ui->menuFile->insertSeparator(ui->actionQuit);
 
     connect(ui->actionQuit, &QAction::triggered, this, &PDFEditorMainWindow::onActionQuitTriggered);

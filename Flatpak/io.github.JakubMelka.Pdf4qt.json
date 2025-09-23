@@ -1,14 +1,17 @@
 {
     "app-id": "io.github.JakubMelka.Pdf4qt",
-    "runtime": "org.kde.Sdk",
+    "runtime": "org.kde.Platform",
     "runtime-version": "6.9",
+    "runtime-branch": "stable",
     "sdk": "org.kde.Sdk",
+    "sdk-branch": "stable",
     "command": "Pdf4QtEditor",
     "finish-args": [
         "--socket=fallback-x11",
         "--socket=wayland",
         "--device=dri",
-        "--share=ipc"
+        "--share=ipc",
+        "--filesystem=host"
     ],
     "cleanup": [
     ],
@@ -114,6 +117,7 @@
             "name": "pdf4qt",
             "buildsystem": "cmake-ninja",
             "builddir": true,
+            "cflags-cpp": ["-DPDF4QT_FLATPAK_BUILD"],
             "config-opts": [
                 "-DCMAKE_BUILD_TYPE=Release",
                 "-DPDF4QT_INSTALL_QT_DEPENDENCIES=OFF",

@@ -1,9 +1,17 @@
 CURRENT:
+
+V: 1.5.2.0 27.4.2025
+ - Issue #313: Remove history UX improvement
+ - Issue #310: Docpage organiser uses PDF title rather than filename
+ - Issue #306: Unable to delete the recent files history. 
  - Issue #303: Add Dockerfile for Simplified PDF4QT Setup with Qt 6.9.1 and All Dependencies
+ - Issue #301: Russian Language file
  - Issue #296: Redaction annotation support in PdfTool 
+ - Issue #295: Request: Make page layout choice persist between files
  - Issue #279: qt_add_translations uses options only in qt 6.9
  - Issue #284: Scaling dimensions [Enhancements, Features] 
  - Issue #281: install API headers for reuse by other applications ?
+ - Issue #251: Let user lock direction of lines/polylines when pressing keybinding (e.g. shift)
 
 V: 1.5.1.0 27.4.2025
  - Issue #271: Change of the license to MIT

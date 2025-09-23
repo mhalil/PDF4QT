@@ -20,7 +20,7 @@
      <x>0</x>
      <y>0</y>
      <width>770</width>
-     <height>21</height>
+     <height>22</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
@@ -39,6 +39,8 @@
     <addaction name="actionRender_to_Images"/>
     <addaction name="separator"/>
     <addaction name="actionProperties"/>
+    <addaction name="separator"/>
+    <addaction name="actionClearRecentFileHistory"/>
     <addaction name="separator"/>
     <addaction name="actionQuit"/>
    </widget>
@@ -1192,7 +1194,15 @@
     <string>Display Render Times</string>
    </property>
    <property name="menuRole">
-    <enum>QAction::NoRole</enum>
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="actionClearRecentFileHistory">
+   <property name="text">
+    <string>Clear Recent File &amp;History</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
    </property>
   </action>
  </widget>

@@ -570,6 +570,10 @@ void PDFProgramController::initialize(Features features,
     {
         connect(action, &QAction::triggered, this, &PDFProgramController::resetSettings);
     }
+    if (QAction* action = m_actionManager->getAction(PDFActionManager::ClearRecentFileHistory))
+    {
+        connect(action, &QAction::triggered, this, &PDFProgramController::clearRecentFileHistory);
+    }
     if (QAction* action = m_actionManager->getAction(PDFActionManager::CertificateManager))
     {
         connect(action, &QAction::triggered, this, &PDFProgramController::onActionCertificateManagerTriggered);
@@ -1200,6 +1204,18 @@ void PDFProgramController::saveDocument(const QString& fileName)
     }
 
     updateFileWatcher();
+}
+
+void PDFProgramController::savePageLayoutPerDocument()
+{
+    if (m_pdfDocument && !m_fileInfo.absoluteFilePath.isEmpty())
+    {
+        QSettings settings(QSettings::IniFormat, QSettings::UserScope, QCoreApplication::organizationName(), QCoreApplication::applicationName());
+        const pdf::PageLayout pageLayout = m_pdfWidget->getDrawWidgetProxy()->getPageLayout();
+        settings.beginGroup("PageLayoutPerDocumentSettings");
+        settings.setValue(m_fileInfo.absoluteFilePath, pdf::PDFPageLayoutUtils::convertPageLayoutToString(pageLayout));
+        settings.endGroup();
+    }
 }
 
 bool PDFProgramController::isFactorySettingsBeingRestored() const
@@ -2041,7 +2057,14 @@ void PDFProgramController::setDocument(pdf::PDFModifiedDocument document, std::v
     if (m_pdfDocument && document.hasReset() && !document.hasPreserveView())
     {
         const pdf::PDFCatalog* catalog = m_pdfDocument->getCatalog();
-        setPageLayout(catalog->getPageLayout());
+
+        QSettings settings(QSettings::IniFormat, QSettings::UserScope, QCoreApplication::organizationName(), QCoreApplication::applicationName());
+        settings.beginGroup("PageLayoutPerDocumentSettings");
+        QString pageLayoutStored = settings.value(m_fileInfo.absoluteFilePath, pdf::PDFPageLayoutUtils::convertPageLayoutToString(catalog->getPageLayout())).toString();
+        settings.endGroup();
+
+        const pdf::PageLayout pageLayout = pdf::PDFPageLayoutUtils::convertStringToPageLayout(pageLayoutStored, catalog->getPageLayout());
+        setPageLayout(pageLayout);
         updatePageLayoutActions();
 
         if (const pdf::PDFAction* action = catalog->getOpenAction())
@@ -2067,6 +2090,8 @@ void PDFProgramController::closeDocument()
             settings.setValue(m_fileInfo.absoluteFilePath, int(pages.front()));
             settings.endGroup();
         }
+
+        savePageLayoutPerDocument();
     }
 
     m_signatures.clear();
@@ -2311,6 +2336,11 @@ void PDFProgramController::resetSettings()
         m_isFactorySettingsBeingRestored = true;
         m_mainWindow->close();
     }
+}
+
+void PDFProgramController::clearRecentFileHistory()
+{
+    m_recentFileManager->clearRecentFiles();
 }
 
 void PDFProgramController::onActionOptionsTriggered()

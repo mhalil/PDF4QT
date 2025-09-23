@@ -23,13 +23,17 @@
 #include "pdfrecentfilemanager.h"
 #include "pdfdbgheap.h"
 
+#include <QFontMetrics>
+#include <QAction>
+
 namespace pdfviewer
 {
 
 PDFRecentFileManager::PDFRecentFileManager(QObject* parent) :
     BaseClass(parent),
     m_recentFilesLimit(DEFAULT_RECENT_FILES),
-    m_actions()
+    m_actions(),
+    m_clearRecentFileHistoryAction(nullptr)
 {
     // Initialize actions
     int index = 0;
@@ -71,6 +75,24 @@ void PDFRecentFileManager::setRecentFilesLimit(int recentFilesLimit)
     }
 }
 
+void PDFRecentFileManager::clearRecentFiles()
+{
+    m_recentFiles.clear();
+    update();
+}
+
+const std::array<QAction*, PDFRecentFileManager::MAXIMUM_RECENT_FILES>& PDFRecentFileManager::getActions() const
+{
+    return m_actions;
+}
+
+static QString elideText(const QString& text, const QFont& font)
+{
+    QFontMetrics metrics(font);
+    int maxWidth = metrics.horizontalAdvance(QString(32, QChar('x')));
+    return metrics.elidedText(text, Qt::ElideMiddle, maxWidth);
+}
+
 void PDFRecentFileManager::update()
 {
     while (m_recentFiles.size() > m_recentFilesLimit)
@@ -84,7 +106,8 @@ void PDFRecentFileManager::update()
         if (i < m_recentFiles.size())
         {
             recentFileAction->setData(m_recentFiles[i]);
-            recentFileAction->setText(tr("(&%1) %2").arg(i + 1).arg(m_recentFiles[i]));
+            QString elidedText = elideText(m_recentFiles[i], recentFileAction->font());
+            recentFileAction->setText(tr("(&%1) %2").arg(i + 1).arg(elidedText));
             recentFileAction->setVisible(true);
         }
         else
@@ -93,6 +116,16 @@ void PDFRecentFileManager::update()
             recentFileAction->setText(tr("Recent file dummy &%1").arg(i + 1));
             recentFileAction->setVisible(false);
         }
+    }
+
+    updateClearRecentFileAction();
+}
+
+void PDFRecentFileManager::updateClearRecentFileAction()
+{
+    if (m_clearRecentFileHistoryAction)
+    {
+        m_clearRecentFileHistoryAction->setEnabled(!m_recentFiles.isEmpty());
     }
 }
 
@@ -106,6 +139,17 @@ void PDFRecentFileManager::onRecentFileActionTriggered()
     {
         Q_EMIT fileOpenRequest(data.toString());
     }
+}
+
+QAction* PDFRecentFileManager::getClearRecentFileHistoryAction() const
+{
+    return m_clearRecentFileHistoryAction;
+}
+
+void PDFRecentFileManager::setClearRecentFileHistoryAction(QAction* newClearRecentFileHistoryAction)
+{
+    m_clearRecentFileHistoryAction = newClearRecentFileHistoryAction;
+    updateClearRecentFileAction();
 }
 
 }   // namespace pdfviewer

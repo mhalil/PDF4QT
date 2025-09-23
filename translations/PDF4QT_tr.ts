@@ -529,7 +529,7 @@
     </message>
     <message>
         <location filename="../JBIG2_Viewer/mainwindow.ui" line="88"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="168"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="170"/>
         <source>Ctrl+O</source>
         <translation></translation>
     </message>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <location filename="../JBIG2_Viewer/mainwindow.ui" line="96"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="516"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="518"/>
         <source>Ctrl+W</source>
         <translation></translation>
     </message>
@@ -597,392 +597,397 @@
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="115"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="117"/>
         <source>&amp;Make</source>
         <translation>&amp;Yap</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="123"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="125"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="42"/>
         <source>&amp;Help</source>
         <translation>Y&amp;ardım</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="132"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="134"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="50"/>
         <source>&amp;Toolbars</source>
         <translation>&amp;Araç çubukları</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="137"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="139"/>
         <source>&amp;Regroup</source>
         <translation>Ye&amp;niden gruplandır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="162"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="164"/>
         <source>&amp;Add Documents...</source>
         <translation>&amp;Belge Ekle...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="165"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="167"/>
         <source>Add Documents</source>
         <translation>Belge Ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="177"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="179"/>
         <source>C&amp;lose</source>
         <translation>K&amp;apat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="180"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="182"/>
         <source>Alt+F4</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="189"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="191"/>
         <source>Clone &amp;Selection</source>
         <translation>K&amp;lon Seçimi</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="192"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="194"/>
         <source>Ctrl+L</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="201"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="203"/>
         <source>Re&amp;move Selection</source>
         <translation>Seçi&amp;mi Kaldır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="204"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="206"/>
         <source>Del</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="213"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="215"/>
         <source>Restore Removed &amp;Items</source>
         <translation>Kaldırılan öğeler&amp;i geri yükle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="216"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="218"/>
         <source>Ctrl+Shift+R</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="225"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="227"/>
         <source>Insert &amp;PDF</source>
         <translation>&amp;PDF ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="228"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="230"/>
         <source>Insert PDF</source>
         <translation>PDF ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="231"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="233"/>
         <source>Ctrl+I</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="240"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="242"/>
         <source>&amp;Insert Image</source>
         <translation>Res&amp;im ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="243"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="245"/>
         <source>Ctrl+Alt+I</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="252"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="254"/>
         <source>Insert &amp;Empty Page</source>
         <translation>Boş Sayfa &amp;Ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="255"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="257"/>
         <source>Ctrl+Shift+I</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="264"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="266"/>
         <source>Cu&amp;t</source>
         <translation>K&amp;es</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="267"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="269"/>
         <source>Ctrl+X</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="276"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="278"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopyala</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="279"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="281"/>
         <source>Ctrl+C</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="288"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="290"/>
         <source>&amp;Paste</source>
         <translation>&amp;Yapıştır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="291"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="293"/>
         <source>Ctrl+V</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="300"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="302"/>
         <source>Repl&amp;ace Selection</source>
         <translation>Seçimi &amp;Değiştir</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="303"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="305"/>
         <source>Ctrl+Alt+R</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="312"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="314"/>
         <source>Select &amp;None</source>
         <translation>Hiçbiri&amp;ni Seçme</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="315"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="317"/>
         <source>Ctrl+N</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="324"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="326"/>
         <source>Select &amp;All</source>
         <translation>T&amp;ümünü Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="327"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="329"/>
         <source>Ctrl+A</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="336"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="338"/>
         <source>Select &amp;Even</source>
         <translation>Çift Sayfaları S&amp;eç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="339"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="341"/>
         <source>F9</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="348"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="350"/>
         <source>Select &amp;Odd</source>
         <translation>Te&amp;k Sayfaları Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="351"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="353"/>
         <source>F10</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="360"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="362"/>
         <source>Select &amp;Portrait</source>
         <translation>&amp;Dikey Sayfaları Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="363"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="365"/>
         <source>F11</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="372"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="374"/>
         <source>Select &amp;Landscape</source>
         <translation>&amp;Yatay Sayfaları Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="375"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="377"/>
         <source>F12</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="384"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="386"/>
         <source>Rotate &amp;Right</source>
         <translation>Sağa Çevi&amp;r</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="387"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="389"/>
         <source>F4</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="396"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="398"/>
         <source>Rotate &amp;Left</source>
         <translation>So&amp;la Çevir</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="399"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="401"/>
         <source>Shift+F4</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="408"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="410"/>
         <source>&amp;Zoom In</source>
         <translation>&amp;Yaklaş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="411"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="413"/>
         <source>Ctrl++</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="420"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="422"/>
         <source>Zoo&amp;m Out</source>
         <translation>&amp;Uzaklaş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="423"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="425"/>
         <source>Ctrl+-</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="432"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="434"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="108"/>
         <source>&amp;Get Source</source>
         <translation>&amp;Kaynak Koda Eriş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="441"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="443"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="117"/>
         <source>&amp;About...</source>
         <translation>&amp;Hakkında...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="444"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="446"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="120"/>
         <source>F1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="453"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="455"/>
         <source>&amp;United Document...</source>
         <translation>&amp;Birleştirilmiş Belge...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="456"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="458"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="150"/>
         <source>F5</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="465"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="467"/>
         <source>&amp;Separate to Multiple Documents...</source>
         <translation>&amp;Birden Çok Belgeye Ayır...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="468"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="470"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="186"/>
         <source>F6</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="477"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="479"/>
         <source>Separate to Multiple Documents (&amp;Grouped)...</source>
         <translation>Birden Çok Belgeye Ayır (&amp;Guplandırılmış)...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="480"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="482"/>
         <source>F7</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="489"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="491"/>
         <source>&amp;Group</source>
         <translation>&amp;Grup</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="492"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="494"/>
         <source>Ctrl+G</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="501"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="503"/>
         <source>U&amp;ngroup</source>
         <translation>Grubu &amp;Çöz</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="504"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="506"/>
         <source>Ctrl+Shift+G</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="513"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="515"/>
         <source>&amp;Clear</source>
         <translation>&amp;Temizle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="525"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="527"/>
         <source>Regroup by &amp;Even/Odd Pages</source>
         <translation>Çift/T&amp;ek Sayfalara Göre Yeniden Gruplandır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="534"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="536"/>
         <source>Regroup by Re&amp;verse</source>
         <translation>Te&amp;rsine Göre Yeniden Gruplandırma</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="543"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="545"/>
         <source>Regroup by &amp;Page Pairs</source>
         <translation>Sayfa Çiftlerine Göre Yeniden Gru&amp;plandır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="552"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="554"/>
         <source>Regroup by &amp;Outline</source>
         <translation>&amp;Anahatlara Göre Yeniden Gruplandırma</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="561"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="563"/>
         <source>Regroup by &amp;Alternating Pages</source>
         <translation>S&amp;ayfaları değiştirerek yeniden gruplandırma</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="570"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="572"/>
         <source>Regroup by Alternating Pages (&amp;Reversed Order)</source>
         <translation>Alte&amp;rnatif sayfalara göre yeniden gruplandır (ters sırayla)</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="579"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="581"/>
         <source>&amp;Invert Selection</source>
         <translation>Seç&amp;imi Ters Çevir</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="588"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="590"/>
         <source>&amp;Undo</source>
         <translation>&amp;Geri Al</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="591"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="593"/>
         <source>Ctrl+Z</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="600"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="602"/>
         <source>Re&amp;do</source>
         <translation>&amp;Yinele</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="603"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="605"/>
         <source>Ctrl+Y</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="608"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="610"/>
         <source>&amp;Prepare Icon Theme</source>
         <translation>&amp;Simge Teması Hazırlayın</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="617"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="619"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="372"/>
         <source>Become a &amp;Sponsor</source>
         <translation>&amp;Sponsor Olun</translation>
+    </message>
+    <message>
+        <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="627"/>
+        <source>Show Document Title in Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="55"/>
@@ -1529,701 +1534,706 @@
         <translation>&amp;Dosya</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="47"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="49"/>
         <source>&amp;Go To</source>
         <translation>&amp;Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="51"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="53"/>
         <source>Book&amp;mark Settings</source>
         <translation>&amp;Yer İşareti Ayarları</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="71"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="73"/>
         <source>&amp;View</source>
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="75"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="77"/>
         <source>Page La&amp;yout</source>
         <translation>Sa&amp;yfa Düzeni</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="86"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="88"/>
         <source>Re&amp;ndering Options</source>
         <translation>İ&amp;şleme Seçenekleri</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="116"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="118"/>
         <source>&amp;Tools</source>
         <translation>&amp;Araçlar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="131"/>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="776"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="133"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="778"/>
         <source>&amp;Help</source>
         <translation>&amp;Yardım</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="139"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="141"/>
         <source>&amp;Developer</source>
         <translation>G&amp;eliştirici</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="146"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="148"/>
         <source>&amp;Edit</source>
         <translation>&amp;Düzen</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="170"/>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="784"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="172"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="786"/>
         <source>&amp;Insert</source>
         <translation>&amp;Ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="174"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="176"/>
         <source>Sticky &amp;Note</source>
         <translation>Yapışkan &amp;Not</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="186"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="188"/>
         <source>&amp;Stamp</source>
         <translation>&amp;Damga</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="191"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="193"/>
         <source>Text Hi&amp;ghlight</source>
         <translation>Metin Vur&amp;gulama</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="237"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="239"/>
         <source>&amp;Open...</source>
         <translation>&amp;Aç...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="246"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="248"/>
         <source>&amp;Close</source>
         <translation>&amp;Kapat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="255"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="257"/>
         <source>&amp;Quit</source>
         <translation>&amp;Çıkış</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="263"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="265"/>
         <source>&amp;Single Page</source>
         <translation>&amp;Tek Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="266"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="268"/>
         <source>Single Page</source>
         <translation>Tek Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="269"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="271"/>
         <source>Ctrl+1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="277"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="279"/>
         <source>&amp;Continuous</source>
         <translation>&amp;Devamlı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="280"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="282"/>
         <source>Continuous</source>
         <translation>Devamlı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="283"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="285"/>
         <source>Ctrl+2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="291"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="293"/>
         <source>Two &amp;Pages</source>
         <translation>&amp;İki Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="294"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="296"/>
         <source>Two Pages</source>
         <translation>İki Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="297"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="299"/>
         <source>Ctrl+3</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="305"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="307"/>
         <source>&amp;Two columns</source>
         <translation>İki &amp;Sütun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="308"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="310"/>
         <source>Two columns</source>
         <translation>İki Sütun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="311"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="313"/>
         <source>Ctrl+4</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="319"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="321"/>
         <source>&amp;First page on right side</source>
         <translation>S&amp;ağ taraftaki ilk sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="322"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="324"/>
         <source>First page on right side</source>
         <translation>Sağ taraftaki ilk sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="325"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="327"/>
         <source>Ctrl+5</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="334"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="336"/>
         <source>&amp;Rendering Errors...</source>
         <translation>&amp;İşleme Hataları...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="337"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="339"/>
         <source>Ctrl+E</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="345"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="347"/>
         <source>&amp;Antialiasing</source>
         <translation>Ken&amp;ar Yumuşatma</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="348"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="350"/>
         <source>Antialiasing</source>
         <translation>Kenar Yumuşatma</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="356"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="358"/>
         <source>&amp;Text Antialiasing</source>
         <translation>Me&amp;tnin Kenarını Yumuşat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="359"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="361"/>
         <source>Text Antialiasing</source>
         <translation>Metnin Kenarını Yumuşat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="367"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="369"/>
         <source>&amp;Smooth Pictures</source>
         <translation>Pürüz&amp;süz Resimler</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="370"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="372"/>
         <source>Smooth Pictures</source>
         <translation>Pürüzsüz Resimler</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="378"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="380"/>
         <source>&amp;Ignore Optional Content Settings</source>
         <translation>&amp;İsteğe Bağlı İçerik Ayarlarını Yoksay</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="381"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="383"/>
         <source>Ignore Optional Content Settings</source>
         <translation>İsteğe Bağlı İçerik Ayarlarını Yoksay</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="390"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="392"/>
         <source>&amp;Options...</source>
         <translation>&amp;Seçenekler...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="393"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="395"/>
         <source>Ctrl+K</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="398"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="400"/>
         <source>Reset to &amp;Factory Settings</source>
         <translation>&amp;Fabrika Ayarlarına Sıfırla</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="407"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="409"/>
         <source>&amp;Zoom In</source>
         <translation>&amp;Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="416"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="418"/>
         <source>Zoom &amp;Out</source>
         <translation>&amp;Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="425"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="427"/>
         <source>&amp;About...</source>
         <translation>&amp;Hakkında...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="434"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="436"/>
         <source>Fit &amp;Page</source>
         <translation>&amp;Sayfayı Sığdır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="443"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="445"/>
         <source>Fit &amp;Width</source>
         <translation>&amp;Genişliği Sığdır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="446"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="448"/>
         <source>W</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="455"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="457"/>
         <source>&amp;Fit Height</source>
         <translation>&amp;Yüksekliği Sığdır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="458"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="460"/>
         <source>H</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="467"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="469"/>
         <source>Prope&amp;rties...</source>
         <translation>Özellikle&amp;r...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="476"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="478"/>
         <source>Send by &amp;E-Mail...</source>
         <translation>&amp;E-posta ile Gönder...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="484"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="486"/>
         <source>Show Text &amp;Blocks</source>
         <translation>Metin &amp;Bloklarını Göster</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="492"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="494"/>
         <source>Show Text &amp;Lines</source>
         <translation>Metin Satır&amp;larını Göster</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="501"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="503"/>
         <source>&amp;Find</source>
         <translation>&amp;Bul</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="510"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="512"/>
         <source>Fin&amp;d Previous</source>
         <translation>&amp;Öncekini Bul</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="519"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="521"/>
         <source>Fi&amp;nd Next</source>
         <translation>&amp;Sonrakini Bul</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="531"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="533"/>
         <source>Select te&amp;xt</source>
         <translation>&amp;Metin Seçimi</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="543"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="545"/>
         <source>Select &amp;table</source>
         <translation>&amp;Tablo Seçimi</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="552"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="554"/>
         <source>Select &amp;All</source>
         <translation>T&amp;ümünü Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="561"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="563"/>
         <source>Dese&amp;lect</source>
         <translation>Seçimi Ka&amp;ldır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="570"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="572"/>
         <source>&amp;Copy text</source>
         <translation>Metni &amp;Kopyala</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="582"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="584"/>
         <source>Color | &amp;Inverted</source>
         <translation>Renk | &amp;Ters çevrilmiş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="594"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="596"/>
         <source>Color | &amp;Grayscale</source>
         <translation>Renk | &amp;Gri Tonlamalı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="606"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="608"/>
         <source>Color | &amp;High Contrast</source>
         <translation>Renk | &amp;Yüksek Kontrast</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="618"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="620"/>
         <source>Color | &amp;Monochromatic</source>
         <translation>Renk | &amp;Tek Renkli</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="630"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="632"/>
         <source>Color | &amp;Custom</source>
         <translation>Renk | &amp;Özel</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="639"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="641"/>
         <source>Rotate &amp;Right</source>
         <translation>S&amp;ağa Döndür</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="648"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="650"/>
         <source>Rotate &amp;Left</source>
         <translation>S&amp;ola Döndür</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="657"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="659"/>
         <source>&amp;Print...</source>
         <translation>&amp;Yazdır...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="662"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="664"/>
         <source>Render to &amp;Images...</source>
         <translation>Res&amp;imleri İşle...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="674"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="676"/>
         <source>&amp;Magnifier</source>
         <translation>&amp;Büyüteç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="677"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="679"/>
         <source>Magnifier Tool</source>
         <translation>Büyüteç Araçları</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="689"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="691"/>
         <source>&amp;Screenshot</source>
         <translation>&amp;Ekran Görüntüsü</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="701"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="703"/>
         <source>&amp;Extract Image</source>
         <translation>R&amp;esmi Çıkar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="709"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="711"/>
         <source>&amp;Display Annotations</source>
         <translation>&amp;Açıklamaları Görüntüle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="712"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="714"/>
         <source>Display Annotations</source>
         <translation>Açıklamaları Görüntüle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="721"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="723"/>
         <source>&amp;Undo</source>
         <translation>&amp;Geri Al</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="730"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="732"/>
         <source>&amp;Redo</source>
         <translation>&amp;Yinele</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="739"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="741"/>
         <source>&amp;Optimize...</source>
         <translation>&amp;Optimize et...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="742"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="744"/>
         <source>Optimizes document to reduce file size.</source>
         <translation>Dosya boyutunu küçültmek için belgeyi optimize eder.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="751"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="753"/>
         <source>Save &amp;As...</source>
         <translation>&amp;Farklı Kaydet...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="760"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="762"/>
         <source>&amp;Save</source>
         <translation>&amp;Kaydet</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="768"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="770"/>
         <source>&amp;Comment</source>
         <translation>&amp;Yorum</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="792"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="794"/>
         <source>&amp;Key</source>
         <translation>&amp;Anahtar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="800"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="802"/>
         <source>&amp;New Paragraph</source>
         <translation>Ye&amp;ni Paragraf</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="808"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="810"/>
         <source>No&amp;te</source>
         <translation>No&amp;t</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="816"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="818"/>
         <source>&amp;Paragraph</source>
         <translation>&amp;Paragraf</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="828"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="830"/>
         <source>&amp;Hyperlink</source>
         <translation>K&amp;öprü</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="840"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="842"/>
         <source>&amp;Inline text</source>
         <translation>Satır &amp;İçi Metin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="852"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="854"/>
         <source>Str&amp;aight Line</source>
         <translation>&amp;Düz Çizgi</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="864"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="866"/>
         <source>Pol&amp;yline</source>
         <translation>Ç&amp;oklu Çizgi</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="876"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="878"/>
         <source>&amp;Rectangle</source>
         <translation>&amp;Dikdörtgen</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="888"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="890"/>
         <source>&amp;Polygon</source>
         <translation>&amp;Çokgen</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="900"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="902"/>
         <source>&amp;Ellipse</source>
         <translation>&amp;Elips</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="912"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="914"/>
         <source>&amp;Freehand Curve</source>
         <translation>Serbest &amp;El Eğrisi</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="924"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="926"/>
         <source>&amp;Highlight</source>
         <translation>&amp;Vurgula</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="936"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="938"/>
         <source>&amp;Underline</source>
         <translation>&amp;Altını Çiz</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="948"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="950"/>
         <source>Stri&amp;keout</source>
         <translation>&amp;Üstünü Çiz</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="960"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="962"/>
         <source>&amp;Squiggly</source>
         <translation>&amp;Dalgalı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="969"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="971"/>
         <source>Go to document &amp;start</source>
         <translation>Belgenin &amp;Başına Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="978"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="980"/>
         <source>Go to document &amp;end</source>
         <translation>Belgenin &amp;Sonuna Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="987"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="989"/>
         <source>Go to &amp;next page</source>
         <translation>S&amp;onraki Sayfaya Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="996"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="998"/>
         <source>Go to &amp;previous page</source>
         <translation>&amp;Önceki Sayfaya Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1005"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1007"/>
         <source>Go &amp;to next line</source>
         <translation>Sonraki Satıra Gi&amp;t</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1014"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1016"/>
         <source>Go t&amp;o previous line</source>
         <translation>Ö&amp;nceki Satıra Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1023"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1025"/>
         <source>&amp;Get Source</source>
         <translation>&amp;Kaynak Koda Eriş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1032"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1034"/>
         <source>&amp;Encryption...</source>
         <translation>Şifr&amp;eleme...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1041"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1043"/>
         <source>&amp;Certificates...</source>
         <translation>&amp;Sertifikalar...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1050"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1052"/>
         <source>&amp;Sanitize...</source>
         <translation>&amp;Sterilize Et...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1053"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1055"/>
         <source>Sanitize document to remove sensitive information.</source>
         <translation>Hassas bilgileri kaldırmak için belgeyi temizleyin.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1061"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1063"/>
         <source>Automatic &amp;Document Refresh</source>
         <translation>Otomatik &amp;Belge Yenileme</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1064"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1066"/>
         <source>Automatically reloads the document if a change made by an external program is detected.</source>
         <translation>Harici bir program tarafından yapılan bir değişiklik algılanırsa belgeyi otomatik olarak yeniden yükler.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1073"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1075"/>
         <source>Become a &amp;Sponsor</source>
         <translation>&amp;Sponsor Olun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1082"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1084"/>
         <source>Create &amp;Bitonal Document...</source>
         <translation>Siyah-&amp;Beyaz Belge Oluştur...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1085"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1087"/>
         <source>Create Bitonal Document</source>
         <translation>Siyah-Beyaz Belge Oluştur</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1088"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1090"/>
         <source>Convert the colored images to monochromatic to create a bitonal document.</source>
         <translation>Siyah-Beyaz bir belge oluşturmak için renkli görüntüleri tek renkli hale getirin.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1097"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1099"/>
         <source>&amp;Bookmark Page</source>
         <translation>&amp;Yer İşareti Sayfası</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1100"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1102"/>
         <source>Bookmark Page</source>
         <translation>Yer İşareti Sayfası</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1103"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1105"/>
         <source>Bookmark page for fast navigation.</source>
         <translation>Hızlı gezinme için yer işareti sayfası.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1112"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1114"/>
         <source>&amp;Go to Next Bookmark</source>
         <translation>Sonraki Yer İşaretine &amp;Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1115"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1117"/>
         <source>Go to Next Bookmark</source>
         <translation>Sonraki Yer İşaretine Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1118"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1120"/>
         <source>Navigates to the next bookmarked page.</source>
         <translation>Yer imlerine eklenmiş bir sonraki sayfaya gider.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1127"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1129"/>
         <source>Go to Previous Boo&amp;kmark</source>
         <translation>Önce&amp;ki Yer İşaretine Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1130"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1132"/>
         <source>Go to Previous Bookmark</source>
         <translation>Önceki Yer İşaretine Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1133"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1135"/>
         <source>Navigates to the previous bookmarked page.</source>
         <translation>Yer imlerine eklenen önceki sayfaya gider.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1142"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1144"/>
         <source>&amp;Export Bookmarks</source>
         <translation>Y&amp;er İşaretlerini Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1145"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1147"/>
         <source>Export Bookmarks</source>
         <translation>Yer İşaretlerini Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1148"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1150"/>
         <source>Export bookmarks to the file.</source>
         <translation>Yer işaretlerini dosyaya aktar.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1157"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1159"/>
         <source>&amp;Import Bookmarks</source>
         <translation>Yer İşaretlerini &amp;İçe Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1160"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1162"/>
         <source>Import Bookmarks</source>
         <translation>Yer İşaretlerini İçe Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1163"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1165"/>
         <source>Import bookmarks from the file.</source>
         <translation>Yer işaretlerini dosyadan içe aktar.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1175"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1177"/>
         <source>&amp;Generate Bookmarks Automatically</source>
         <translation>Yer işaretlerini otomatik olarak &amp;oluşturun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1178"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1180"/>
         <source>Generate Bookmarks Automatically</source>
         <translation>Yer işaretlerini otomatik olarak oluşturun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1181"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1183"/>
         <source>If checked, bookmarks for main document chapters are generated automatically.</source>
         <translation>İşaretlenirse, ana belge bölümleri için yer işaretleri otomatik olarak oluşturulur.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1189"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1191"/>
         <source>Display &amp;Render Times</source>
         <translation>&amp;İşleme Süresini Görüntüle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1192"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1194"/>
         <source>Display Render Times</source>
         <translation>İşleme Süresini Görüntüle</translation>
+    </message>
+    <message>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="1202"/>
+        <source>Clear Recent File &amp;History</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5143,399 +5153,404 @@
         <translation>&amp;Dosya</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="43"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="45"/>
         <source>&amp;Go To</source>
         <translation>&amp;Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="47"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="49"/>
         <source>Book&amp;mark Settings</source>
         <translation>&amp;Yer İşareti Ayarları</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="67"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="69"/>
         <source>&amp;View</source>
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="71"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="73"/>
         <source>Page La&amp;yout</source>
         <translation>Sa&amp;yfa Düzeni</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="82"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="84"/>
         <source>Re&amp;ndering Options</source>
         <translation>İ&amp;şleme Seçenekleri</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="112"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="114"/>
         <source>&amp;Tools</source>
         <translation>&amp;Araçlar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="124"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="126"/>
         <source>&amp;Help</source>
         <translation>Y&amp;ardım</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="152"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="154"/>
         <source>&amp;Open...</source>
         <translation>&amp;Aç...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="161"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="163"/>
         <source>&amp;Close</source>
         <translation>&amp;Kapat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="170"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="172"/>
         <source>&amp;Quit</source>
         <translation>&amp;Çıkış</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="178"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="180"/>
         <source>&amp;Single Page</source>
         <translation>&amp;Tek Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="181"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="183"/>
         <source>Ctrl+1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="189"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="191"/>
         <source>&amp;Continuous</source>
         <translation>&amp;Devamlı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="192"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="194"/>
         <source>Ctrl+2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="200"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="202"/>
         <source>Two &amp;Pages</source>
         <translation>&amp;İki Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="203"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="205"/>
         <source>Ctrl+3</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="211"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="213"/>
         <source>&amp;Two columns</source>
         <translation>İki &amp;Sütun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="214"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="216"/>
         <source>Ctrl+4</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="222"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="224"/>
         <source>&amp;First page on right side</source>
         <translation>S&amp;ağ taraftaki ilk sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="225"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="227"/>
         <source>First page on right side</source>
         <translation>Sağ taraftaki ilk sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="228"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="230"/>
         <source>Ctrl+5</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="237"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="239"/>
         <source>Rendering &amp;Errors...</source>
         <translation>&amp;İşleme Hataları...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="240"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="242"/>
         <source>Ctrl+E</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="248"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="250"/>
         <source>&amp;Antialiasing</source>
         <translation>Ken&amp;ar Yumuşatma</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="256"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="258"/>
         <source>&amp;Text Antialiasing</source>
         <translation>Me&amp;tnin Kenarını Yumuşat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="264"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="266"/>
         <source>&amp;Smooth Pictures</source>
         <translation>Pürüz&amp;süz Resimler</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="272"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="274"/>
         <source>&amp;Ignore Optional Content Settings</source>
         <translation>&amp;İsteğe Bağlı İçerik Ayarlarını Yoksay</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="281"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="283"/>
         <source>&amp;Options...</source>
         <translation>&amp;Seçenekler...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="284"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="286"/>
         <source>Ctrl+K</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="289"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="291"/>
         <source>&amp;Reset to Factory Settings</source>
         <translation>&amp;Fabrika Ayarlarına Sıfırla</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="298"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="300"/>
         <source>&amp;Zoom In</source>
         <translation>&amp;Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="307"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="309"/>
         <source>Zoom &amp;Out</source>
         <translation>&amp;Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="316"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="318"/>
         <source>&amp;About...</source>
         <translation>&amp;Hakkında...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="325"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="327"/>
         <source>Fit &amp;Page</source>
         <translation>&amp;Sayfayı Sığdır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="334"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="336"/>
         <source>Fit &amp;Width</source>
         <translation>&amp;Genişliği Sığdır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="337"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="339"/>
         <source>W</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="346"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="348"/>
         <source>&amp;Fit Height</source>
         <translation>&amp;Yüksekliği Sığdır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="349"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="351"/>
         <source>H</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="358"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="360"/>
         <source>Prope&amp;rties...</source>
         <translation>Özellikle&amp;r...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="367"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="369"/>
         <source>Send by &amp;E-Mail...</source>
         <translation>&amp;E-posta ile Gönder...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="379"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="381"/>
         <source>Color | &amp;Inverted</source>
         <translation>Renk | &amp;Ters çevrilmiş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="391"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="393"/>
         <source>Color | &amp;Grayscale</source>
         <translation>Renk | &amp;Gri Tonlamalı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="403"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="405"/>
         <source>Color | &amp;High Contrast</source>
         <translation>Renk | &amp;Yüksek Kontrast</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="415"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="417"/>
         <source>Color | &amp;Monochromatic</source>
         <translation>Renk | &amp;Tek Renkli</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="427"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="429"/>
         <source>Color | &amp;Custom</source>
         <translation>Renk | &amp;Özel</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="436"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="438"/>
         <source>Rotate &amp;Right</source>
         <translation>Sağa Çevi&amp;r</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="445"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="447"/>
         <source>Rotate &amp;Left</source>
         <translation>So&amp;la Çevir</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="454"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="456"/>
         <source>&amp;Print...</source>
         <translation>&amp;Yazdır...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="462"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="464"/>
         <source>&amp;Display Annotations</source>
         <translation>&amp;Açıklamaları Görüntüle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="471"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="473"/>
         <source>Go to document &amp;start</source>
         <translation>Belgenin &amp;başına git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="480"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="482"/>
         <source>Go to document &amp;end</source>
         <translation>Belgenin &amp;sonuna git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="489"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="491"/>
         <source>Go to &amp;next page</source>
         <translation>S&amp;onraki sayfaya git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="498"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="500"/>
         <source>Go to &amp;previous page</source>
         <translation>&amp;Önceki sayfaya git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="507"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="509"/>
         <source>Go &amp;to next line</source>
         <translation>Sonraki satıra gi&amp;t</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="516"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="518"/>
         <source>Go t&amp;o previous line</source>
         <translation>Ö&amp;nceki satıra git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="525"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="527"/>
         <source>&amp;Get Source</source>
         <translation>&amp;Kaynak Koda Eriş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="534"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="536"/>
         <source>&amp;Certificates...</source>
         <translation>&amp;Sertifikalar...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="542"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="544"/>
         <source>Automatic &amp;Document Refresh</source>
         <translation>Otomatik &amp;Belge Yenileme</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="545"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="547"/>
         <source>Automatically reloads the document if a change made by an external program is detected.</source>
         <translation>Harici bir program tarafından yapılan bir değişiklik algılanırsa belgeyi otomatik olarak yeniden yükler.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="554"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="556"/>
         <source>Become a &amp;Sponsor</source>
         <translation>&amp;Sponsor Olun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="557"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="559"/>
         <source>Become a Sponsor</source>
         <translation>Sponsor Olun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="566"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="568"/>
         <source>&amp;Bookmark Page</source>
         <translation>&amp;Yer İşareti Sayfası</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="569"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="571"/>
         <source>Bookmark Page</source>
         <translation>Yer İşareti Sayfası</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="572"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="574"/>
         <source>Bookmark page for fast navigation.</source>
         <translation>Hızlı gezinme için yer işareti sayfası.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="581"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="583"/>
         <source>&amp;Go to Next Bookmark</source>
         <translation>Sonraki Yer İşaretine &amp;Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="584"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="586"/>
         <source>Go to Next Bookmark</source>
         <translation>Sonraki Yer İşaretine Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="587"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="589"/>
         <source>Navigates to the next bookmarked page.</source>
         <translation>Yer imlerine eklenmiş bir sonraki sayfaya gider.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="596"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="598"/>
         <source>Go to Previous Boo&amp;kmark</source>
         <translation>Önce&amp;ki Yer İşaretine Git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="599"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="601"/>
         <source>Navigates to the previous bookmarked page.</source>
         <translation>Yer imlerine eklenen önceki sayfaya gider.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="608"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="610"/>
         <source>&amp;Export Bookmarks</source>
         <translation>Y&amp;er İşaretlerini Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="611"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="613"/>
         <source>Export Bookmarks</source>
         <translation>Yer İşaretlerini Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="614"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="616"/>
         <source>Export bookmarks to the file.</source>
         <translation>Yer işaretlerini dosyaya aktar.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="623"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="625"/>
         <source>&amp;Import Bookmarks</source>
         <translation>Yer İşaretlerini &amp;İçe Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="626"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="628"/>
         <source>Import Bookmarks</source>
         <translation>Yer İşaretlerini İçe Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="629"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="631"/>
         <source>Import bookmarks from the file.</source>
         <translation>Yer işaretlerini dosyadan içe aktar.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="641"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="643"/>
         <source>&amp;Generate Bookmarks Automatically</source>
         <translation>Yer işaretlerini otomatik olarak &amp;oluşturun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="644"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="646"/>
         <source>Generate Bookmarks Automatically</source>
         <translation>Yer işaretlerini otomatik olarak oluşturun</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="647"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="649"/>
         <source>If checked, bookmarks for main document chapters are generated automatically.</source>
         <translation>İşaretlenirse, ana belge bölümleri için yer işaretleri otomatik olarak oluşturulur.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="655"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="657"/>
         <source>Display &amp;Render Times</source>
         <translation>&amp;İşleme Süresini Görüntüle</translation>
+    </message>
+    <message>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="665"/>
+        <source>Clear Recent File &amp;History</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6701,12 +6716,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFCreateFreeTextTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="170"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="172"/>
         <source>Text</source>
         <translation>Metin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="170"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="172"/>
         <source>Enter text for free text panel</source>
         <translation>Serbest metin paneline metin girin</translation>
     </message>
@@ -6714,7 +6729,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFCreateHighlightTextTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="1113"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="1172"/>
         <source>Select Color</source>
         <translation>Renk Seç</translation>
     </message>
@@ -6722,14 +6737,32 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFCreateHyperlinkTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="135"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="137"/>
         <source>Hyperlink</source>
         <translation>Köprü</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="135"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="137"/>
         <source>Enter url address of the hyperlink</source>
         <translation>Köprünün url adresini girin</translation>
+    </message>
+</context>
+<context>
+    <name>pdf::PDFCreateLineTypeTool</name>
+    <message>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="440"/>
+        <source>Orthogonal mode is enabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="444"/>
+        <source>Orthogonal mode is disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="605"/>
+        <source>Use key &apos;C&apos; to show/hide large cross. Use key &apos;O&apos; to switch on/off orthogonal mode.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6743,12 +6776,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFCreateStickyNoteTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="86"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="88"/>
         <source>Sticky note</source>
         <translation>Yapışkan not</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="86"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfadvancedtools.cpp" line="88"/>
         <source>Enter text to be displayed in the sticky note</source>
         <translation>Yapışkan notta görüntülenecek metni girin</translation>
     </message>
@@ -7294,7 +7327,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFExtractImageTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1662"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1704"/>
         <source>Image of size %1 x %2 pixels was copied to the clipboard.</source>
         <translation>%1 x %2 piksel boyutundaki görüntü panoya kopyalandı.</translation>
     </message>
@@ -7302,38 +7335,38 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFFindTextTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="408"/>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="661"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="409"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="662"/>
         <source>Find</source>
         <translation>Bul</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="420"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="421"/>
         <source>Case sensitive</source>
         <translation>Büyük/küçük harfe duyarlı</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="421"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="422"/>
         <source>Whole words only</source>
         <translation>Yalnızca tam sözcükler</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="422"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="423"/>
         <source>Previous</source>
         <translation>Önceki</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="423"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="424"/>
         <source>Next</source>
         <translation>Sonraki</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="447"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="448"/>
         <source>Search text</source>
         <translation>Arama metni</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="665"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="666"/>
         <source>Find (%1/%2)</source>
         <translation>Bul (%1/%2)</translation>
     </message>
@@ -8483,7 +8516,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFPickTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1550"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1583"/>
         <source>Use key &apos;C&apos; to show/hide large cross.</source>
         <translation>Büyük çarpı işaretini göstermek/gizlemek için &apos;C&apos; tuşunu kullanın.</translation>
     </message>
@@ -8529,7 +8562,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFScreenshotTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1631"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1673"/>
         <source>Page contents of size %1 x %2 pixels were copied to the clipboard.</source>
         <translation>%1 x %2 piksel boyutundaki sayfa içeriği panoya kopyalandı.</translation>
     </message>
@@ -8569,7 +8602,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdf::PDFSelectTableTool</name>
     <message>
-        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="1995"/>
+        <location filename="../Pdf4QtLibWidgets/sources/pdfwidgettool.cpp" line="2037"/>
         <source>Table region was selected. Use left/right mouse buttons to add/remove rows/columns, then use Enter key to copy the table.</source>
         <translation>Tablo bölgesi seçildi. Satır/sütun eklemek/kaldırmak için sol/sağ fare düğmelerini kullanın, ardından tabloyu kopyalamak için Enter tuşunu kullanın.</translation>
     </message>
@@ -9660,7 +9693,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <translation>Tensör çarpımı yama gölgelendirmesinde geçersiz veriler.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibCore/sources/pdfpattern.cpp" line="3716"/>
+        <location filename="../Pdf4QtLibCore/sources/pdfpattern.cpp" line="3718"/>
         <source>Invalid data in coons patch shading.</source>
         <translation>Coons yama gölgelendirmede geçersiz veriler.</translation>
     </message>
@@ -11811,105 +11844,105 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdfpagemaster::MainWindow</name>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="154"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="155"/>
         <source>&amp;Main</source>
         <translation>&amp;Ana</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="165"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="166"/>
         <source>&amp;Insert</source>
         <translation>&amp;Ekle</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="168"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="169"/>
         <source>&amp;Select</source>
         <translation>&amp;Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="171"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="172"/>
         <source>&amp;Regroup</source>
         <translation>Yeniden g&amp;ruplandır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="174"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="175"/>
         <source>&amp;Zoom</source>
         <translation>&amp;Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="177"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="178"/>
         <source>Ma&amp;ke</source>
         <translation>&amp;Yap</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="259"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="868"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="260"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="874"/>
         <source>Select PDF document(s)</source>
         <translation>PDF belge(lerini) seçin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="259"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="868"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="897"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="260"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="874"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="903"/>
         <source>PDF document (*.pdf)</source>
         <translation>PDF belgesi (*.pdf)</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="286"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="287"/>
         <source>Select</source>
         <translation>Seç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="293"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="294"/>
         <source>Regroup</source>
         <translation>Yeniden gruplandır</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="371"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="372"/>
         <source>Encrypted document</source>
         <translation>Şifreli belge</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="371"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="372"/>
         <source>Enter password to access document &apos;%1&apos;</source>
         <translation>&apos;%1&apos; belgesine erişmek için parola girin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="394"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="400"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="725"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="811"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="824"/>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="833"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="395"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="401"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="731"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="817"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="830"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="839"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="394"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="395"/>
         <source>Document security doesn&apos;t permit to organize pages.</source>
         <translation>Belge güvenliği, sayfaların düzenlenmesine izin vermez.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="725"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="731"/>
         <source>No documents to assemble.</source>
         <translation>Birleştirilecek belge yok.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="824"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="830"/>
         <source>Document with given filename already exists.</source>
         <translation>Verilen dosya adına sahip belge zaten var.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="849"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="855"/>
         <source>Images (*.%1)</source>
         <translation>Resimler (*.%1)</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="850"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="856"/>
         <source>Select Image(s)</source>
         <translation>Resim(ler)i seçin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="897"/>
+        <location filename="../Pdf4QtPageMaster/mainwindow.cpp" line="903"/>
         <source>Select PDF document</source>
         <translation>PDF belgesini seçin</translation>
     </message>
@@ -11940,52 +11973,52 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdfpagemaster::PageItemModel</name>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="955"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="981"/>
         <source>Page Group</source>
         <translation>Sayfa Grubu</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="991"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1021"/>
         <source>Document collection</source>
         <translation>Belge koleksiyonu</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="992"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1023"/>
         <source>Page Count: %1</source>
         <translation>Sayfa Sayısı: %1</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1026"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1057"/>
         <source>Image</source>
         <translation>Resim</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1026"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1057"/>
         <source>Images</source>
         <translation>Resimler</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1031"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1063"/>
         <source>Blank Page</source>
         <translation>Boş Sayfa</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1031"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1063"/>
         <source>Blank Pages</source>
         <translation>Boş Sayfalar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1041"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1074"/>
         <source>#BBBB00@Collection</source>
         <translation>#BBBB00@Koleksiyon</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1045"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1078"/>
         <source>#D98335@Blank</source>
         <translation>#D98335@Boş</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1049"/>
+        <location filename="../Pdf4QtPageMaster/pageitemmodel.cpp" line="1082"/>
         <source>#24A5EA@Image</source>
         <translation>#24A5EA@Resim</translation>
     </message>
@@ -13658,27 +13691,27 @@ li.checked::marker { content: &quot;\2612&quot;; }
         <translation>Standart</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="251"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="253"/>
         <source>%</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="285"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="287"/>
         <source>&amp;Sidebar</source>
         <translation>&amp;Kenar çubuğu</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="295"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="297"/>
         <source>Advanced find</source>
         <translation>Gelişmiş bul</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="303"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="305"/>
         <source>Ad&amp;vanced Find...</source>
         <translation>&amp;Gelişmiş Bul...</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="440"/>
+        <location filename="../Pdf4QtLibGui/pdfeditormainwindow.cpp" line="442"/>
         <source> / %1</source>
         <translation></translation>
     </message>
@@ -13820,186 +13853,186 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdfviewer::PDFProgramController</name>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="780"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="784"/>
         <source>Printing document</source>
         <translation>Belge yazdırılıyor</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="841"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="845"/>
         <source>Go to action</source>
         <translation>Aksiyona git</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="841"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="845"/>
         <source>Failed to go to destination &apos;%1&apos;. Destination wasn&apos;t found.</source>
         <translation>&apos;%1&apos; hedefine gidilemedi. Hedef bulunamadı.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="889"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="893"/>
         <source>Would you like to launch application &apos;%1&apos; in working directory &apos;%2&apos; with parameters &apos;%3&apos;?</source>
         <translation>&apos;%1&apos; uygulamasını &apos;%2&apos; çalışma dizininde &apos;%3&apos; parametreleriyle başlatmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="890"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="905"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="918"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="924"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="894"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="909"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="922"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="928"/>
         <source>Launch application</source>
         <translation>Uygulamayı başlat</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="905"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="924"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="909"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="928"/>
         <source>Executing application failed. Error code is %1.</source>
         <translation>Uygulama çalıştırılamadı. Hata kodu %1&apos;dir.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="917"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="921"/>
         <source>Would you like to launch application &apos;%1&apos;?</source>
         <translation>&apos;%1&apos; uygulamasını başlatmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="946"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="950"/>
         <source>Would you like to open URL &apos;%1&apos;?</source>
         <translation>&apos;%1&apos; URL&apos;sini açmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="947"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="952"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="951"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="956"/>
         <source>Open URL</source>
         <translation>URL&apos;yi Aç</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="952"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="956"/>
         <source>Opening url &apos;%1&apos; failed.</source>
         <translation>&apos;%1&apos; url&apos;si açılamadı.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1164"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1168"/>
         <source>Save As</source>
         <translation>Farklı Kaydet</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1164"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1168"/>
         <source>Portable Document (*.pdf);;All files (*.*)</source>
         <translation>Taşınabilir Belge (*.pdf);; Tüm dosyalar (*.*)</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1199"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1326"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1203"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1330"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1235"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1239"/>
         <source>Save Document</source>
         <translation>Belgeyi Kaydet</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1236"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1240"/>
         <source>Do you wish to save modified document before it is closed?</source>
         <translation>Değiştirilen belgeyi kapatmadan önce kaydetmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1326"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1330"/>
         <source>Error while starting email client occured!</source>
         <translation>E-posta istemcisi başlatılırken hata oluştu!</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1396"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1400"/>
         <source>Permission to change document security is denied.</source>
         <translation>Belge güvenliğini değiştirme izni reddedildi.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1415"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1419"/>
         <source>Failed to create security handler.</source>
         <translation>Güvenlik işleyicisi oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1428"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1439"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1432"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1443"/>
         <source>Reauthorization is required to change document encryption.</source>
         <translation>Belge şifrelemesini değiştirmek için yeniden yetkilendirme gereklidir.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1523"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1527"/>
         <source>Encrypted document</source>
         <translation>Şifreli belge</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1523"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1527"/>
         <source>Enter password to access document content</source>
         <translation>Belge içeriğine erişmek için parola girin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1922"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1926"/>
         <source>Document &apos;%1&apos; was successfully loaded!</source>
         <translation>&apos;%1&apos; belgesi başarıyla yüklendi!</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1928"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="1932"/>
         <source>Document read error: %1</source>
         <translation>Belge okuma hatası: %1</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2121"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2125"/>
         <source>%1 - %2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2303"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2310"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2307"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2314"/>
         <source>Reset Settings</source>
         <translation>Ayarları Sıfırla</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2303"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2307"/>
         <source>Do you wish to restore the default factory settings of the program? All settings changed by the user will be deleted. Application will be closed.</source>
         <translation>Programın varsayılan fabrika ayarlarını geri yüklemek ister misiniz? Kullanıcı tarafından değiştirilen tüm ayarlar silinecektir. Uygulama kapatılacaktır.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2310"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2314"/>
         <source>Default factory settings were restored. Application will be now closed.</source>
         <translation>Fabrika ayarları geri yüklendi. Uygulama şimdi kapatılacak.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2350"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2359"/>
         <source>Plugins</source>
         <translation>Eklentiler</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2350"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2359"/>
         <source>Plugin on/off state has been changed. Please restart application to apply settings.</source>
         <translation>Eklenti açık/kapalı durumu değiştirildi. Ayarları uygulamak için lütfen uygulamayı yeniden başlatın.</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2377"/>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2449"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2386"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2458"/>
         <source>Select PDF document</source>
         <translation>PDF belgesini seçin</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2377"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2386"/>
         <source>PDF document (*.pdf)</source>
         <translation>PDF belgesi (*.pdf)</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2434"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2443"/>
         <source>Export Bookmarks As</source>
         <translation>Yer İmlerini Dışa Farklı Aktar</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2434"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2443"/>
         <source>JSON (*.json);;All files (*.*)</source>
         <translation>JSON (*.json);; Tüm dosyalar (*.*)</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2449"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2458"/>
         <source>JSON (*.json)</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2468"/>
+        <location filename="../Pdf4QtLibGui/pdfprogramcontroller.cpp" line="2477"/>
         <source>Rendering of page %1: %2 errors occured.</source>
         <translation>%1 sayfasının işlenmesinde: %2 hataları oluştu.</translation>
     </message>
@@ -14007,12 +14040,12 @@ li.checked::marker { content: &quot;\2612&quot;; }
 <context>
     <name>pdfviewer::PDFRecentFileManager</name>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfrecentfilemanager.cpp" line="87"/>
+        <location filename="../Pdf4QtLibGui/pdfrecentfilemanager.cpp" line="110"/>
         <source>(&amp;%1) %2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfrecentfilemanager.cpp" line="93"/>
+        <location filename="../Pdf4QtLibGui/pdfrecentfilemanager.cpp" line="116"/>
         <source>Recent file dummy &amp;%1</source>
         <translation>Son dosya işlevsiz &amp;%1</translation>
     </message>
@@ -14486,17 +14519,17 @@ Sayfa %2: %3</translation>
         <translation>Standart</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.cpp" line="202"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.cpp" line="204"/>
         <source>%</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.cpp" line="220"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.cpp" line="222"/>
         <source>&amp;Sidebar</source>
         <translation>&amp;Kenar çubuğu</translation>
     </message>
     <message>
-        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.cpp" line="352"/>
+        <location filename="../Pdf4QtLibGui/pdfviewermainwindow.cpp" line="354"/>
         <source> / %1</source>
         <translation></translation>
     </message>
